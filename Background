@@ -1,0 +1,48 @@
+*/HTML*/
+<header>
+  
+</header>
+
+<main>
+  
+  <h1>Evolua rápido como a tecnologia.</h1>
+  <p>Junte-se a milhares de devs e acelere na direção dos seus objetivos</p>
+   <h1>Evolua rápido como a tecnologia.</h1>
+  <p>Junte-se a milhares de devs e acelere na direção dos seus objetivos</p> <h1>Evolua rápido como a tecnologia.</h1>
+  <p>Junte-se a milhares de devs e acelere na direção dos seus objetivos</p> <h1>Evolua rápido como a tecnologia.</h1>
+  <p>Junte-se a milhares de devs e acelere na direção dos seus objetivos</p> <h1>Evolua rápido como a tecnologia.</h1>
+  <p>Junte-se a milhares de devs e acelere na direção dos seus objetivos</p> <h1>Evolua rápido como a tecnologia.</h1>
+  <p>Junte-se a milhares de devs e acelere na direção dos seus objetivos</p> <h1>Evolua rápido como a tecnologia.</h1>
+  <p>Junte-se a milhares de devs e acelere na direção dos seus objetivos</p>
+</main>
+
+*CSS:
+* {
+  margin: 0;
+}
+
+
+/*header {
+  height: 400px;
+  border: 7px dashed #990000;
+  padding: 16px; 
+ 
+  
+}*/
+
+main {
+  color: rgb(173, 216, 230);
+  padding: 16px;
+   background-color: rgb(128, 128, 120, 128);
+  background-image: url(https://www.rocketseat.com.br/assets/vectors/astronauts.svg);
+   background-repeat: no-repeat;
+  background-position: center down;
+  background-size: cover;
+  background-origin: content-box;
+  background-clip: content-box;
+  background-attachment: fixed;
+  
+  background: linear-gradient(rgba(255, 255,255, 0), rgba(255, 0, 0, 0.2)), #20308b url(https://www.rocketseat.com.br/assets/vectors/astronauts.svg) repeat-y left top / 100px border-box content-box fixed;
+  
+  }
+
