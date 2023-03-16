@@ -5,3 +5,6 @@ Conteúdo box position
 
 Conteúdo background
 ![bkgrnd](https://user-images.githubusercontent.com/121810279/224858951-10bc5634-1c75-42ec-8ccb-e906df566097.PNG)
+
+landing page horror
+![resultado final](https://user-images.githubusercontent.com/121810279/225630995-56530f73-7e8d-4750-8f7e-7b20190414ca.PNG)
