@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A viagem da sua vida</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Inter:wght@400;700&family=Shantell+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+
+
+  
+</head>
+<body>
+
+
+
+
+  <div>
+    
+    <h1> YOUR <span>TRAVEL</span> EXPERT</h1>
+    <p>Start exploring the best places in the entire world!</p>
+
+
+  </div>
+  
+  
+
+<a href="#" class="read1">READ MORE</a>
+  <a href="#" class="travel1">TRAVEL NOW</a>
+
+
+
+ 
+</body>
+</html>
+
+
+```CSS
+
+*{
+  margin: 0px;
+  text-align: center;
+  box-sizing: border-box;
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  
+}
+
+
+body{
+
+
+    padding: 160px;
+    text-align: center;
+    
+    
+    background-image: url(https://i.ibb.co/P1Kxk5w/image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vw;
+
+  
+   
+}
+
+
+
+h1{
+
+font-weight: 400px;
+font-size: 50px;
+line-height: 70px;
+
+
+
+font-family: 'Cinzel';
+
+
+}
+
+
+p{
+
+  font-size: 20;
+  line-height: 10px;
+  font-weight: 400;
+  margin-bottom: 72px;
+  color: black;
+  opacity: 0.6;
+}
+
+
+
+a{
+
+
+  padding: 12px 30px;
+  
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 50px;
+  
+  
+}
+
+
+a:hover{
+  text-decoration: none;
+  color: rgb(255, 0, 119);
+  background-color: rgb(0, 0, 0);
+}
+
+
+h1 span {
+
+  color: rgb(255, 0, 119);
+}
+
+
+
+
+.read1{
+text-decoration: none;
+color: #040101;
+width: 127px;
+  height: 24px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+border-radius: 80px;
+
+opacity: 1;
+
+
+
+}
+
+
+
+.travel1{
+
+text-decoration: none;
+background-color: rgb(253, 46, 94);
+padding: 16px 32px;
+font-weight: 700;
+font-size: 20px;
+
+border-radius: 80px;
+
+color: white;
+
+
+
+
+}
