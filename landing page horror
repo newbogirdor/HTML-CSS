@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jornada do zero á primeira vaga</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Emilys+Candy&family=Inter:wght@400;700&family=Shantell+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+
+
+
+</head>
+
+
+<body>
+  
+  <h3>The <span>horror game</span> of the year</h3>
+
+<h1>ENDLESS <br>NIGHTMARE</h1>
+
+<p>You need to find the way out or your night will never end!</p>
+
+<a href="#" class="">READ MORE</a>
+
+<a href="#" class="elemento1">PLAY NOW</a>
+
+</body>
+</html>
+
+
+```CSS
+
+* {
+  margin: 0px;
+  box-sizing: border-box;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+body{
+
+  text-align: center;
+  padding-top: 160px;
+
+  
+
+  background-image: url(https://i.ibb.co/pXCm3cx/background-image.jpg;);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  height: 100vw;
+  
+  
+font-family: 'Inter', sans-serif;
+
+}
+
+
+
+
+h1 {
+
+
+  color: #FFC700;
+  /*border: 1px solid blue;*/
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 80px;
+  
+  font-family: 'Emilys Candy', cursive;
+  
+}
+
+h3{
+  
+  font-size: 16px;
+  line-height: 19px;
+  color: white;
+}
+
+
+
+
+h3 span{
+
+color: #FFC700;
+}
+
+p {
+
+  font-size: 20;
+  line-height: 24px;
+  font-weight: 400;
+  margin-bottom: 72px;
+  color: white;
+  opacity: .7;
+}
+
+a{
+
+  padding: 12px 32px;
+  border: 1px solid gray;
+  font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: gray;
+opacity: 0.6;
+}
+
+
+a:hover{
+
+  text-decoration: none;
+color: #040101;
+background-color: #FFC700;
+}
+
+.elemento1{
+
+text-decoration: none;
+color: #040101;
+background-color: #FFC700;
+opacity: 1;
+
+}
+
+
+.elemento2 {
+
+  text-decoration: none;
+  color: #FFFFFF;
+  width: 119px;
+  height: 24px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+color: white;
+opacity: 0.6;
+
+}
+
+
