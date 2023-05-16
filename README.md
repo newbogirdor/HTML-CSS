@@ -11,3 +11,6 @@ landing page horror
 
 Página de viagens
 ![1 desafio](https://user-images.githubusercontent.com/121810279/225631644-a987f338-32bf-4968-ae45-80bae8641926.PNG)
+
+Página Alimentação saudável
+![Postar_easy](https://github.com/newbogirdor/HTML-CSS/assets/121810279/0fa28936-f281-474c-a46a-082509daec04)
